@@ -1,0 +1,27 @@
+{
+  "name": "kernel",
+  "version": "1.0.0",
+  "description": "Kernel componenent for Tsunami",
+  "main": "kernel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymfonyTunisianWorld/kernel.git"
+  },
+  "keywords": [
+    "Kernel",
+    "Tsunami"
+  ],
+  "author": "Amine Fattouch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SymfonyTunisianWorld/kernel/issues"
+  },
+  "homepage": "https://github.com/SymfonyTunisianWorld/kernel#readme",
+  "dependencies": {
+    "inversify": "^4.5.1",
+    "reflect-metadata": "^0.1.10"
+  }
+}
