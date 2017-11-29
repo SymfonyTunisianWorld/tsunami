@@ -1,7 +1,7 @@
 /**
  * Kernel class.
  *
- * @author Amine Fattouch <amine.fattouch@lagardere-active.com>
+ * @author Amine Fattouch <amine.fattouch@gmail.com>
  */
 class HttpKernel {
 

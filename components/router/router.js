@@ -1,7 +1,7 @@
 /**
  * This is the component router.
  *
- * @author Amine Fattouch <amine.fattouch@lagardere-active.com>
+ * @author Amine Fattouch <amine.fattouch@gmail.com>
  */
 class Router {
   /**

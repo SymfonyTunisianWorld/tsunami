@@ -3,7 +3,7 @@ let Module = require('../../components/kernel/module');
 /**
  * The application module class.
  *
- * @author Amine Fattouch <amine.fattouch@lagardere-active.com>
+ * @author Amine Fattouch <amine.fattouch@gmail.com>
  */
 class AppModule extends Module {
   /**
