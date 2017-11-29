@@ -1,0 +1,27 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "Configuration component for tsunami framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymfonyTunisianWorld/config.git"
+  },
+  "keywords": [
+    "Configuration",
+    "Tsunami"
+  ],
+  "author": "Amine Fattouch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SymfonyTunisianWorld/config/issues"
+  },
+  "homepage": "https://github.com/SymfonyTunisianWorld/config#readme",
+  "dependencies": {
+    "inversify": "^4.5.1",
+    "jsonschema": "^1.2.0"
+  }
+}
