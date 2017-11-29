@@ -1,0 +1,23 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "Component Router for tsunami",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymfonyTunisianWorld/router.git"
+  },
+  "keywords": [
+    "Router",
+    "Tsunami"
+  ],
+  "author": "Amine Fattouch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SymfonyTunisianWorld/router/issues"
+  },
+  "homepage": "https://github.com/SymfonyTunisianWorld/router#readme"
+}
