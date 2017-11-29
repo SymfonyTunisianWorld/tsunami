@@ -1,5 +1,5 @@
 {
-  "name": "tsunami",
+  "name": "tsunami-framework",
   "version": "1.0.0",
   "description": "Framework Node",
   "main": "index.js",
@@ -8,18 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SymfonyTunisianWorld/tsunami.git"
+    "url": "git://github.com/SymfonyTunisianWorld/tsunami.git"
   },
   "keywords": [
     "framework",
     "node",
     "dependency_injection",
-    "router"
+    "inversify"
   ],
   "author": "Amine Fattouch",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SymfonyTunisianWorld/tsunami/issues"
   },
-  "homepage": "https://github.com/SymfonyTunisianWorld/tsunami#readme"
+  "homepage": "https://github.com/SymfonyTunisianWorld/tsunami#readme",
+  "dependencies": {
+        
+  }
 }
