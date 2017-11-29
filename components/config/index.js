@@ -1,7 +1,5 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+var Configuration = require('./configuration');
+var JsonLoader = require('./json-loader');
 
-
+module.exports = Configuration;
+module.exports.JsonLoader = JsonLoader;

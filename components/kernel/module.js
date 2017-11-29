@@ -1,5 +1,3 @@
-let path = require('path');
-
 /**
  * The application module class.
  *
