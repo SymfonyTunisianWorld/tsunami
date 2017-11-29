@@ -1,0 +1,25 @@
+{
+  "name": "tsunami",
+  "version": "1.0.0",
+  "description": "Framework Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymfonyTunisianWorld/tsunami.git"
+  },
+  "keywords": [
+    "framework",
+    "node",
+    "dependency_injection",
+    "router"
+  ],
+  "author": "Amine Fattouch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SymfonyTunisianWorld/tsunami/issues"
+  },
+  "homepage": "https://github.com/SymfonyTunisianWorld/tsunami#readme"
+}
